@@ -1,6 +1,6 @@
-# LAFBM_SS_Torch
+# LAFBM_HK_Surr
 
-**LAFBM_SS_Torch** is a project that implements a PyTorch-based surrogate system for approximating differential operators in the Local Anisotropic Basis Function Method (LABFM). This framework focuses on replacing high-order mesh-free differential operators with machine-learned surrogates, enabling rapid evaluations in scientific simulations.
+**LAFBM_HK_Surr** is a project that implements a PyTorch-based surrogate system for approximating differential operators in the Local Anisotropic Basis Function Method (LABFM). This framework focuses on replacing high-order mesh-free differential operators with machine-learned surrogates.
 
 The primary objective is to test different neural network models as surrogates and evaluate their accuracy through convergence analysis, providing insights into their effectiveness when replacing traditional numerical solvers.
 
@@ -24,7 +24,7 @@ The primary objective is to test different neural network models as surrogates a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/lucasstarepravo/LAFBM_SS_Torch.git
+   git clone https://github.com/lucasstarepravo/LAFBM_HK_Surr.git
 
  2. **Install Dependencies:**
  ```bash
