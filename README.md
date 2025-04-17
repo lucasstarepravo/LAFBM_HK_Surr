@@ -1,6 +1,6 @@
 # infer-hok
 
-**infer-hok** is a project that implements a PyTorch-based surrogate system for approximating differential operators in the Local Anisotropic Basis Function Method (LABFM). This framework focuses on replacing high-order mesh-free differential operators with machine-learned surrogates.
+**infer-hok** is a project that implements a PyTorch-based surrogate system for approximating differential operators in the Local Anisotropic Basis Function Method (LABFM). This framework focuses on replacing high-order mesh-free kernel (hok) in mesh free discrete differential operators with machine-learned surrogates.
 
 The primary objective is to test different neural network models as surrogates and evaluate their accuracy through convergence analysis, providing insights into their effectiveness when replacing traditional numerical solvers.
 
