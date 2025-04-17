@@ -15,7 +15,7 @@ The primary objective is to test different neural network models as surrogates a
 ## Features
 
 - **Neural Operator Surrogates:** Learn LABFM differential operators using neural networks.
-- **Multiple Architectures:** Easily plug in different model types (e.g., MLP, ResNet, PINN, etc.) for comparison.
+- **Multiple Architectures:** Easily plug in different model types for comparison.
 - **Convergence Analysis Tools:** Includes scripts to evaluate and plot convergence rates of surrogate approximations.
 - **Object-Oriented Design:** Modular structure for easy customization and extension.
 - **Torch-Based Implementation:** Leverages PyTorch for flexible training and inference workflows.
